@@ -18,7 +18,8 @@ import {
   TrendingUp,
   CheckCircle,
   Clock,
-  Sparkles
+  Sparkles,
+  Megaphone
 } from "lucide-react";
 
 interface Campaign {
